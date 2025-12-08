@@ -27,6 +27,5 @@ The model prints:
 
 ## How to run
 * Make sure the dataset file is available
-* Install required libraries:
-pip install numpy pandas scikit-learn
+* Install required libraries
 * Run the script in your environment
