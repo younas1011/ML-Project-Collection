@@ -2,7 +2,7 @@
 This project uses the XGBoost Regressor to predict house prices based on different housing-related features.
 The dataset contains various numerical attributes for each house, and the target column represents the final price value.
 
-##What the code does
+## What the code does
 * Loads the Boston House Price dataset
 * Shows basic information about the data
 * Splits the data into training and testing sets
