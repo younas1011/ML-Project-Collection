@@ -1,5 +1,5 @@
 # Loan Approval Prediction Using Support Vector Machine
-This project uses Support Vector Machine (SVM) to predict whether a loan application will be approved or not. The dataset contains different applicant and loan-related features, and the last column shows the label (0 → Not Approved, 1 → Approved).
+This project uses Support Vector Machine (SVM) to predict whether a loan application will be approved or not. The dataset contains different applicant and loan related features, and the last column shows the label (0 → Not Approved, 1 → Approved).
 
 ## What the code does
 * Loads the Loan Approval dataset
