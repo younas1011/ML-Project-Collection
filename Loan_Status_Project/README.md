@@ -32,6 +32,3 @@ This project uses Support Vector Machine (SVM) to predict whether a loan applica
 * Make sure the dataset file is available
 * Install required libraries (e.g, numpy, pandas, seaborn, scikit-learn)
 * Run the script in your environment
-
-
-Run the script in your environment
