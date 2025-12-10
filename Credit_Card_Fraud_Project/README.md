@@ -16,7 +16,7 @@ This project uses Logistic Regression to detect fraudulent credit card transacti
 * Builds a predictive system to classify new transactions
 
 ## Steps in the project
-1.Load the dataset
+1. Load the dataset
 2. View first 5 rows
 3. View last 5 rows
 4. Check dataset size
